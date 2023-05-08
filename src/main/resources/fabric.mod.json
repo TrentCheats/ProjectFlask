@@ -3,15 +3,15 @@
   "id": "wurst",
   "version": "${version}",
 
-  "name": "Wurst Client",
-  "description": "Wurst Wurst Wurst!",
+  "name": "Celestial Client",
+  "description": "Celestial!",
   "authors": [
-    "Alexander01998"
+    "TrentTheTent"
   ],
   "contact": {
-    "homepage": "https://www.wurstclient.net/?utm_source=Wurst+Client&utm_medium=ModMenu&utm_content=Website",
-    "issues": "https://www.wurstclient.net/wurst7issues/",
-    "sources": "https://www.wurstclient.net/wurst7sources/"
+    "homepage": "N/A",
+    "issues": "N/A",
+    "sources": "N/A"
   },
 
   "license": "GPL-3.0-or-later",
@@ -44,8 +44,8 @@
   "custom": {
     "modmenu": {
       "links": {
-        "Wiki": "https://wurst.wiki/?utm_source=Wurst+Client&utm_medium=ModMenu&utm_content=Wiki",
-        "Donate": "https://www.wurstclient.net/donate/?utm_source=Wurst+Client&utm_medium=ModMenu&utm_content=Donate"
+        "Wiki": "N/A",
+        "Donate": "SOON!"
       }
     }
   }
