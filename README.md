@@ -1,4 +1,4 @@
-# Wurst Client v7
+# Project Flask v1
 
 ## Downloads (for users)
 
