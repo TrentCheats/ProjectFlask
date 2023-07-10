@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "wurst",
+  "id": "Celestial Client",
   "version": "${version}",
 
-  "name": "Celestial Client",
-  "description": "Celestial!",
+  "name": "Project Flask",
+  "description": "First Ever Hack Client!",
   "authors": [
-    "TrentTheTent"
+    "im.trent"
   ],
   "contact": {
     "homepage": "N/A",
