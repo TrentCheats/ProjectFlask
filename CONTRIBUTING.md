@@ -3,8 +3,8 @@ Thank you for considering to contribute! Here are some things you can help with,
 
 - fixing a typo
   - in the Project Flask itself (look for the pen icon at the top right)
-  - on WurstClient.net (scroll all the way down and click "edit this page")
-  - on the Wurst Wiki (login and click "Edit this page")
+  - on Project Flask website not found (scroll all the way down and click "edit this page")
+  - on the No WIKI FOUND (login and click "Edit this page")
 - improving an existing bug report
   - figuring out which Minecraft versions are affected by the bug
   - Can you figure out how to make the bug happen every time? If so, please let me know.
@@ -25,20 +25,11 @@ Thank you for considering to contribute! Here are some things you can help with,
   - looking for bugs in the code and pointing them out
   - suggesting improvements
   - checking that the code wasn't stolen from another client
-- helping with the [Wurst Wiki](https://wiki.wurstclient.net/)
+- helping with the UNKNOWN
   - translating Wurst Wiki articles to another language
   - adding screenshots of features where appropriate
-  - making sure that changes from recent Wurst updates are documented
+  - making sure that changes from recent Project Flask updates are documented
   - digging through old Wurst updates to find out when exactly a feature was added
-- helping people who can't figure out how to install Wurst
+- helping people who can't figure out how to install Project Flask
 - making tutorials / how-to videos
-  - how to make [AutoBuild templates](https://wiki.wurstclient.net/_detail/autobuild_templates_explained_ll.webp?id=autobuild)
-  - how to use the [profile system](https://www.wurstclient.net/updates/wurst-7-1/)
-- creating more backups/archives of Wurst
-  - [creating a fork](https://github.com/Wurst-Imperium/Wurst7/fork) / mirror of this repository
-  - adding [WurstClient.net](https://www.wurstclient.net/) pages to the Internet Archive
-  - adding [Wurst Wiki](https://wiki.wurstclient.net/) articles to the Internet Archive
-  - archiving old [Wurst releases](https://www.wurstclient.net/download/) & source code in case they are ever taken down
-  - archiving [WiZARDHAX Wurst videos](https://www.youtube.com/c/wizardhax/videos) in case the channel is ever taken down
-- just spreading the word, telling people about Wurst, etc.
-- expanding this list with more things that people can do to help (This is all I could think of for now.)
+  - 
