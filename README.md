@@ -1,4 +1,4 @@
-# Project Flask v1
+# Celestial Client v1
 
 ## Downloads (for users)
 
