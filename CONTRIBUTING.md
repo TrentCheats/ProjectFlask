@@ -2,7 +2,7 @@
 Thank you for considering to contribute! Here are some things you can help with, in no particular order:
 
 - fixing a typo
-  - in the Wurst Client itself (look for the pen icon at the top right)
+  - in the Project Flask itself (look for the pen icon at the top right)
   - on WurstClient.net (scroll all the way down and click "edit this page")
   - on the Wurst Wiki (login and click "Edit this page")
 - improving an existing bug report
