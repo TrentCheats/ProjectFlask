@@ -2,7 +2,7 @@
 
 ## Downloads (for users)
 
-[https://www.wurstclient.net/download/](Releasing to the public soon!)
+[Website Download not released yet!](Releasing to the public soon!)
 
 ## Setup (for developers)
 
